@@ -1,5 +1,8 @@
 # Project: Finding Donors for Charity
 
+## Link to Jupyter Notebook 
+[Finding Donors for Charity](https://nbviewer.jupyter.org/github/williamxnguyen/Pet-Projects/blob/master/Finding%20Donors%20for%20Charity/master.ipynb)
+
 ## Project Overview
 In this project, I applied supervised learning techniques and an analytical mind on data collected for the U.S. census 
 to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. 
